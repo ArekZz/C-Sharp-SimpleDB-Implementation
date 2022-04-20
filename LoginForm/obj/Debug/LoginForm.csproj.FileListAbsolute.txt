@@ -1,0 +1,11 @@
+C:\Users\Arek\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Arek\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Arek\source\repos\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form2.resources
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.Form3.resources
+C:\Users\Arek\source\repos\LoginForm\LoginForm\obj\Debug\LoginForm.deserializeUser.resources
